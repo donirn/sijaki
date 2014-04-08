@@ -17,6 +17,6 @@ Configuration steps:
 3. Import sijaki.sql to your sql server
 
 Here is a default username and password for each users:
-1. Administrator, Username : admin, Password : Admin
-2. Student, Username : 113102170, Password : 1234
-3. Teacher, Username : DWM, Password : 1234
+- Administrator, Username : admin, Password : Admin
+- Student, Username : 113102170, Password : 1234
+- Teacher, Username : DWM, Password : 1234
