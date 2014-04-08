@@ -7,6 +7,8 @@ SIJAKI is an abbreviation for "Sistem Informasi Penjadwalan Kuliah". It is an In
 
 The Information System has 3 user interface. Those are for teacher, student, and administrator.
 
+Here is an example of administrator UI.
+![](https://raw.githubusercontent.com/donirn/sijaki/master/Screenshots/Administrator.png)
 
 Configuration steps:
 
