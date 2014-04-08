@@ -1,0 +1,14 @@
+.hero-unit{
+	padding: 0px;
+}
+#footer{
+	height:60px;
+	background-color: #eee;
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+}
+#footer p{
+	margin-top:20px;
+}
